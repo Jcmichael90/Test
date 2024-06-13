@@ -1,7 +1,7 @@
-const day = "Friday"
+const number = 40
 
-const position = 5
-
-const output = 'Today is ' + day + '.' + ' It is the ' + position + 'th' + ' day of the week'
-
-console.log(output)
+if(number %2===0) {
+    console.log('the number is even')
+} else {
+    console.log('the number is even')
+}
